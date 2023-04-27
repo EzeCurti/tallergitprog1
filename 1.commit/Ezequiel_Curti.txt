@@ -34,4 +34,6 @@ Al hacer el code "git mv" el archivo "sandwich2.txt" fue borrado y en su lugar l
 
 Al hacer "git log --oneline", se actualiza el historial de branchs 
 
-Al borrar 
+La salida de "git status" dice que el archivo "sandwich2_feo.txt" fue borrado.
+
+el code git log --stat muestra la cantidad de modificaciones que hice en todos los archivos 
