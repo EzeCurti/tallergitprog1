@@ -9,3 +9,8 @@ Luego de hacer "git graph" (despues de volver a la branch "master") sigo viendo 
 
 Luego de hacer "git branch --merged"" puedo ver que todos los cambios realizado en la branch "anana" ahora aparecen en "experimento"}
 
+Luego de borrar las branchs "Anana" y "Experimento" no salen que estan "mergeadas" a la branch "master"
+
+Luego de hacer "git graph" sigo viendo los cambios en los commits mas actualizados
+
+
