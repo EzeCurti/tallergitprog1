@@ -1,0 +1,13 @@
+Al hacer "git diff" se muestra en rojo lo que se cambio y en verde lo que se agrego
+
+Al hacer git status no veo nada fuera de lo común, solo el archivo Ezequiel_Curti.txt esta sin commitear
+
+Al hacer "git merge" en bife parece haber funcionado
+
+Al hacer "git merge" en suprema, me dice que hay un conflicto
+
+Al hacer "git status" parece haber un problema con el archivo milanesa.txt
+
+Al observar el contenido de "milanesa.txt" puedo ver lo que se estaria "mergeando" de la branch "suprema"
+
+
