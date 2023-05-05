@@ -1,3 +1,5 @@
+Teorica:
+
 2.1.1) Un branch es una "rama" que se sépara de la rama principal, estas se usan para trabajar en distintas areas del mismo proyecto de forma aislada antes de fusionarlo con la rama principal (main).
 
 2.1.2) Pueden ser utiles para, al momento de realizar un proyecto, en caso de querer realizar una prueba o querer modificarlo de forma aislada sin afectar al mismo, se puede crear esta y si estamos conformes con los cambios, fusionarlo al main.
@@ -17,6 +19,8 @@
 2.1.9) Un tag es una etiqueta con la que se marca una version especifica de un archivo que se va a necesitar posteriormente en este repositorio.
 
 2.1.10) Se usa el comando git tag <nombre de la tag>
+
+Practica:
 
 Me figuran todos los archivos que fueron commiteados hasta el momento.
 
